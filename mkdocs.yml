@@ -7,6 +7,8 @@ nav:
     - Lorem Ipsum: cerita/lorem.md
     - Cerita Kantor: cerita/kantor.md
   - Add-on Minecraft: addon.md
+extra_css: 
+  - stylesheets/css.css
 theme:
   logo: img/yasalam.png
   favicon: img/yasalam.png
