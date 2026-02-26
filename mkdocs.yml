@@ -7,9 +7,9 @@ nav:
     - Lorem Ipsum: cerita/lorem.md
     - Cerita Kantor: cerita/kantor.md
   - Add-on Minecraft: addon.md
-extra_css: 
-  - stylesheets/css.css
 theme:
+  font:
+    text: Playpen Sans Thai
   logo: img/yasalam.png
   favicon: img/yasalam.png
   name: material
@@ -18,8 +18,6 @@ theme:
   features:
     - navigation.tabs
     - search.suggest
-  font:
-    code: Roboto Mono
   palette: 
     # Palette toggle for dark mode
     - scheme: slate

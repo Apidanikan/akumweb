@@ -1,7 +1,0 @@
-@font-face {
-  font-family: "VCR OSD Mono";
-  src: "vcrosdmono.ttf";
-}
-:root {
-  --md-text-font: "VCR OSD Mono"; 
-}
