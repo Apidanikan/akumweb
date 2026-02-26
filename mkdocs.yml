@@ -1,0 +1,36 @@
+site_name: AkuManusiaaWeb
+site_url: http://ex.com
+
+nav:
+  - Beranda: index.md
+  - Cerita:
+    - Lorem Ipsum: cerita/lorem.md
+    - Cerita Kantor: cerita/kantor.md
+  - Add-on Minecraft: addon.md
+theme:
+  logo: img/yasalam.png
+  favicon: img/yasalam.png
+  name: material
+  plugins:
+    - search
+  features:
+    - navigation.tabs
+    - search.suggest
+  font:
+    code: Roboto Mono
+  palette: 
+    # Palette toggle for dark mode
+    - scheme: slate
+      primary: black
+      accent: blue
+      toggle:
+        icon: material/brightness-4
+        name: Ganti ke mode terang
+
+    # Palette toggle for light mode
+    - scheme: default
+      primary: white
+      accent: blue
+      toggle:
+        icon: material/brightness-7 
+        name: Ganti ke mode gelap
