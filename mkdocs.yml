@@ -13,8 +13,6 @@ theme:
   logo: img/yasalam.png
   favicon: img/yasalam.png
   name: material
-  plugins:
-    - search
   features:
     - navigation.tabs
     - search.suggest
@@ -34,3 +32,14 @@ theme:
       toggle:
         icon: material/brightness-7 
         name: Ganti ke mode gelap
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - codehilite
+  - toc:
+      permalink: true
+  - pymdownx.superfences
+  - pymdownx.tabbed
+  - pymdownx.betterem
