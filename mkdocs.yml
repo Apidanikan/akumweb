@@ -7,9 +7,12 @@ nav:
     - Lorem Ipsum: cerita/lorem.md
     - Cerita Kantor: cerita/kantor.md
   - Add-on Minecraft: addon.md
+
+extra_css:
+  - style/css.css
+
 theme:
-  font:
-    text: Playpen Sans Thai
+  font: false
   logo: img/yasalam.png
   favicon: img/yasalam.png
   name: material
