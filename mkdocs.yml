@@ -12,7 +12,8 @@ extra_css:
   - style/css.css
 
 theme:
-  font: false
+  font:
+    text: Titillium Web
   logo: img/yasalam.png
   favicon: img/yasalam.png
   name: material
