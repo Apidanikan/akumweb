@@ -1,0 +1,7 @@
+:root{
+  --md-text-font: "Better VCR";
+}
+@font-face {
+  font-family: "Better VCR";
+  src: url(bettervcr.ttf);
+}
