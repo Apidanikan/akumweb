@@ -5,3 +5,20 @@
   font-family: "Better VCR";
   src: url(bettervcr.ttf);
 }
+.card {
+	padding: 1em;
+	border-radius: 0.4rem;
+	border: solid 1px rgb(80, 80, 80);
+	outline: none;
+}
+.card h2 {
+  margin-top: 0;
+  margin-bottom: 4px;
+}
+img.emoji-like {
+	height: 1.7em;
+	vertical-align: -0.15em;
+}
+[data-md-color-scheme="slate"] {
+  --md-hue: 200; 
+}

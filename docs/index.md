@@ -1,15 +1,18 @@
 # AkuManusiaaWeb
-
 Selamat datang di website ini! Website ini hanya berisi percobaan.
+
+<div class="card">
+<h2><img src="img/Book.png" class="emoji-like"> <a href="cerita/">Cerita</a></h2>
+Cerita yang sangat menginspirasi.<br>
+<a href="cerita/lorem"><i>Lorem Ipsum</i></a> - Cerita dari bangsa Romawi.<br>
+<a href="cerita/kantor">Cerita Kantor</a> - Cerita pekerja keras di kantor.
+</div>
+<p></p>
+<div class="card">
+<h2><img class="emoji-like" src="img/Iron_Pickaxe.png"> <a href="addon">Add-on Minecraft</a></h2>
+Add-on Minecraft yang saya buat sebagai add-on Minecraft.
+</div>
 
 ![Julius Caesar](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg/250px-Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg)  
 
 `Lorem ipsum dolor sit amet.`
-
-<div markdown="0">
-<form>
-<input id="hexValue" placeholder="Hex value" style="padding: 1em;margin: 0.5em;border-radius: 0.4rem; border: solid 1px rgb(38, 38, 38); outline: none;color: blue;"/>
-<input id="result" placeholder="Result" readonly  style="padding: 1em;margin: 0.5em;border-radius: 0.4rem; border: solid 1px rgb(38, 38, 38); outline: none;color: blue;"/>
-<a onclick="document.getElementById('result').value = String.fromCodePoint(parseInt(document.getElementById('hexValue').value, 16))" style="text-decoration: none; color: white; background: rgb(91, 33, 182); padding: 0.5em; border-radius: 0.4em; cursor: pointer;">Convert</a>
-</form>
-</div>

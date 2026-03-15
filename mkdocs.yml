@@ -4,6 +4,7 @@ site_url: http://ex.com
 nav:
   - Beranda: index.md
   - Cerita:
+    - cerita/index.md
     - Lorem Ipsum: cerita/lorem.md
     - Cerita Kantor: cerita/kantor.md
   - Add-on Minecraft: addon.md
@@ -16,6 +17,7 @@ theme:
   custom_dir: overrides
   features:
     - navigation.instant
+    - navigation.indexes
     - search.suggest
   palette: 
     # Palette toggle for dark mode
