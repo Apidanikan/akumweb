@@ -1,4 +1,4 @@
-# Cerita
+# <img src="../img/book.png" class="emoji-like"> Cerita
 
 Cerita yang sangat menginspirasi.
 

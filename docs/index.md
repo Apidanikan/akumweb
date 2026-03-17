@@ -3,14 +3,14 @@
 Selamat datang di website ini! Website ini hanya berisi percobaan <img src="img/smug.png" class="emoji-like"><img src="img/smug.png" class="emoji-like"><img src="img/smile.png" class="emoji-like">
 
 <div class="card">
-<h2><img src="img/Book.png" class="emoji-like"> <a href="cerita/">Cerita</a></h2>
+<h2><img src="img/book.png" class="emoji-like"> <a href="cerita/">Cerita</a></h2>
 Cerita yang sangat menginspirasi.<br>
 <img src="img/smug.png" class="emoji-like"> <a href="cerita/lorem"><i>Lorem Ipsum</i></a> - Cerita dari bangsa Romawi.<br>
 <img src="img/smile.png" class="emoji-like"> <a href="cerita/kantor">Cerita Kantor</a> - Cerita pekerja keras di kantor.
 </div>
 <p></p>
 <div class="card">
-<h2><img class="emoji-like" src="img/Iron_Pickaxe.png"> <a href="addon">Add-on Minecraft</a></h2>
+<h2><img class="emoji-like" src="img/ironpick.png"> <a href="addon">Add-on Minecraft</a></h2>
 Add-on Minecraft yang saya buat sebagai add-on Minecraft.
 </div>
 
