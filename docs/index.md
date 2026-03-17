@@ -5,8 +5,8 @@ Selamat datang di website ini! Website ini hanya berisi percobaan <img src="img/
 <div class="card">
 <h2><img src="img/Book.png" class="emoji-like"> <a href="cerita/">Cerita</a></h2>
 Cerita yang sangat menginspirasi.<br>
-<img src="/img/smug.png" class="emoji-like"> <a href="cerita/lorem"><i>Lorem Ipsum</i></a> - Cerita dari bangsa Romawi.<br>
-<img src="/img/smile.png" class="emoji-like"> <a href="cerita/kantor">Cerita Kantor</a> - Cerita pekerja keras di kantor.
+<img src="img/smug.png" class="emoji-like"> <a href="cerita/lorem"><i>Lorem Ipsum</i></a> - Cerita dari bangsa Romawi.<br>
+<img src="img/smile.png" class="emoji-like"> <a href="cerita/kantor">Cerita Kantor</a> - Cerita pekerja keras di kantor.
 </div>
 <p></p>
 <div class="card">
