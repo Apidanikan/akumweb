@@ -1,4 +1,4 @@
-# <img src="../img/Book.png" class="emoji-like"> Cerita
+# <img src="/img/Book.png" class="emoji-like"> Cerita
 
 Cerita yang sangat menginspirasi.
 <div class="card">
