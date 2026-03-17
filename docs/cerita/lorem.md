@@ -1,4 +1,4 @@
-# <img src="/img/smug.png" class="emoji-like"> Lorem Ipsum
+# <img src="../img/smug.png" class="emoji-like"> Lorem Ipsum
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent et orci in metus accumsan volutpat. In semper, dolor vel gravida imperdiet, nulla nulla viverra purus, quis vehicula sem augue vel ligula. Proin et tellus a ex laoreet faucibus. Aliquam sollicitudin imperdiet ante ut aliquam. Nullam a rutrum urna, ut ultrices odio. Curabitur malesuada ultrices pharetra. Integer aliquam auctor lorem ac lacinia. Phasellus eu ligula diam. Pellentesque vitae molestie eros. Integer venenatis dapibus elit nec consequat. Ut arcu mi, mattis sit amet fringilla ut, varius vitae ante.
 
