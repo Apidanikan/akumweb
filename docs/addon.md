@@ -1,4 +1,4 @@
-# <img src="/img/Iron_Pickaxe.png" class="emoji-like"> Add-on Minecraft
+# <img src="img/Iron_Pickaxe.png" class="emoji-like"> Add-on Minecraft
 
 Klik [link ini](https://drive.usercontent.google.com/u/0/uc?id=1kH1SY_EkZnxGgzHYDnjhS0BxGZ8DIJsB&export=download) untuk menginstal file add-on Minecraft.
 
