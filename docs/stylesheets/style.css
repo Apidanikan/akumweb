@@ -15,9 +15,17 @@
   margin-top: 0;
   margin-bottom: 4px;
 }
-img.emoji-like {
+h2 img.emoji-like {
 	height: 1.7em;
 	vertical-align: -0.15em;
+}
+h1 img.emoji-like {
+	height: 1.8em;
+	vertical-align: -0.15em;
+}
+img.emoji-like {
+	height: 1.3em;
+	vertical-align: -0.12em;
 }
 [data-md-color-scheme="slate"] {
   --md-hue: 200; 

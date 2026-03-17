@@ -1,11 +1,12 @@
-# AkuManusiaaWeb
-Selamat datang di website ini! Website ini hanya berisi percobaan.
+# <img src="img/icon.png" class="emoji-like"> AkuManusiaaWeb
+
+Selamat datang di website ini! Website ini hanya berisi percobaan <img src="img/smug.png" class="emoji-like"><img src="img/smug.png" class="emoji-like"><img src="img/smile.png" class="emoji-like">
 
 <div class="card">
 <h2><img src="img/Book.png" class="emoji-like"> <a href="cerita/">Cerita</a></h2>
 Cerita yang sangat menginspirasi.<br>
-<a href="cerita/lorem"><i>Lorem Ipsum</i></a> - Cerita dari bangsa Romawi.<br>
-<a href="cerita/kantor">Cerita Kantor</a> - Cerita pekerja keras di kantor.
+<img src="/img/smug.png" class="emoji-like"> <a href="cerita/lorem"><i>Lorem Ipsum</i></a> - Cerita dari bangsa Romawi.<br>
+<img src="/img/smile.png" class="emoji-like"> <a href="cerita/kantor">Cerita Kantor</a> - Cerita pekerja keras di kantor.
 </div>
 <p></p>
 <div class="card">

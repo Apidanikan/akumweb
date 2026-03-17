@@ -11,7 +11,7 @@ nav:
 extra_css:
   - stylesheets/style.css
 theme:
-  logo: img/yasalam.png
+  logo: img/icon.png
   favicon: img/yasalam.png
   name: material
   custom_dir: overrides
