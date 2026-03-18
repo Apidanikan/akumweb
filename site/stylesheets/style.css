@@ -18,7 +18,7 @@
 img.emoji-like {
 	height: 1.3em;
 	vertical-align: -0.1em;
-	margin: 0.05em 0.05em;
+	margin: 0.05em 0.1em;
 }
 [data-md-color-scheme="slate"] {
   --md-hue: 200; 
